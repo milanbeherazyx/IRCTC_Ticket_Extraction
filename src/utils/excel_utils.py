@@ -1,7 +1,6 @@
 import pandas as pd
 from src.utils.logger import setup_logger
 
-# Set up logger
 logger = setup_logger(__name__)
 
 def save_to_excel(df, output_path):

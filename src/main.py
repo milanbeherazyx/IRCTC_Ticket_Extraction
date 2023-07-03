@@ -2,12 +2,13 @@ import os
 import pandas as pd
 from src.utils import pdf_utils, excel_utils
 from src.utils.logger import setup_logger
+from src.utils.exception import CustomException
 
 # Set up logger
 logger = setup_logger(__name__)
 
 # Folder path containing PDF files
-folder_path = "./data/pdf"
+folder_path = ".src/data"
 
 # Initialize an empty list to store ticket details from all PDF files
 all_ticket_details = []
