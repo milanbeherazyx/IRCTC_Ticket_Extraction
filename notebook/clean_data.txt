@@ -1,0 +1,38 @@
+Ticket Details:
+PNR: 6320030680
+Train Number: 12041
+Train Name: SHA TABDI EXP
+Quota: GENERAL
+Transaction ID: 100004184610509
+Date of Booking: 22-May-2023
+Class: CHAIR CAR
+From: HOWRAH JN
+Date of Journey: 22-May-2023
+To: BOLPUR S NIKTN
+Boarding At: HWH
+Date Of Boarding: 22-May-2023
+Scheduled Departure: 22-May-2023 14:25
+Reservation Up to: BOLPUR S NIKTN ( BHP)
+Scheduled Arrival: 22-May-2023 16:13
+Adult: 2
+Child: 0
+Passenger Mobile No: 7678531706
+Distance: 146KM
+Insurance (No. of Psng): 2
+
+Passenger Details:
+Passenger 1
+Name: PUJA  SINGH
+Age: 31
+Gender: Female
+Status: CNF
+Coach: C5
+Seat / Berth / WL No: 44
+Passenger 2
+Name: PRASHANT  KUMAR
+Age: 29
+Gender: Male
+Status: CNF
+Coach: C5
+Seat / Berth / WL No: 43
+Total Fare: 1026.10
